@@ -2,11 +2,11 @@
 
 ## aitama_1
 
-Arg0: Nomin#Nom | Nomin#Par (aitaja)
+Arg0: SPN#Nom | SPN#Par (aitaja)
 
-Arg1: Nomin#Gen | Nomin#Par | Nomin#Ade  (kasusaaja)
+Arg1: SPN#Gen | SPN#Par | SPN#Ade  (kasusaaja)
 
-Arg2: Verb#Inf | Nomin#Com | Nomin#Ade | Nomin#Ine (mida teha/milles/millega)
+Arg2: Verb#Inf | SPN#Com | SPN#Ade | SPN#Ine (mida teha/milles/millega)
 
 Arg3:
 

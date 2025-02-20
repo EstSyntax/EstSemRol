@@ -2,11 +2,11 @@
 
 ## alistama
 
-Arg0: Nomin#Nom (alistaja)
+Arg0: SPN#Nom (alistaja)
 
-Arg1: Nomin#Nom | Nomin#Gen | Nomin#Par (kaotaja)
+Arg1: SPN#Nom | SPN#Gen | SPN#Par (kaotaja)
 
-Arg2: Nomin#Ade | Nomin#Ine (võistlus)
+Arg2: SPN#Ade | SPN#Ine (võistlus)
 
 Arg3: 
 

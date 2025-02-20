@@ -3,11 +3,11 @@
 ## ajama_1
 kedagi/midagi seisundisse ajama
 
-Arg0: Nomin#Nom (agent, põhjus)
+Arg0: SPN#Nom (agent, põhjus)
 
-Arg1: Nomin#Nom | Nomin#Gen | Nomin#Par (objekt)
+Arg1: SPN#Nom | SPN#Gen | SPN#Par (objekt)
 
-Arg2: Verb#Sup#Ill| Nomin#Tra | Nomin#Add | Nomin#Ill | Adv#(püsti | nurja | segamini | pärani) (seisund)
+Arg2: Verb#Sup#Ill| SPN#Tra | SPN#Add | SPN#Ill | Adv#(püsti | nurja | segamini | pärani) (seisund)
 
 Arg3:
 
@@ -30,11 +30,11 @@ Arg5:
 ## ajama_2
 kedagi/midagi kuhugi ajama
 
-Arg0: Nomin#Nom
+Arg0: SPN#Nom
 
-Arg1: Nomin#Nom | Nomin#Gen | Nomin#Par
+Arg1: SPN#Nom | SPN#Gen | SPN#Par
 
-Arg2: Nomin#Add | Nomin#Ill | Nomin#All | Nomin#Gen + (kaela | läbi | vahele ) | Adv#(sinna)
+Arg2: SPN#Add | SPN#Ill | SPN#All | SPN#Gen + (kaela | läbi | vahele ) | Adv#(sinna)
 
 Arg3: Verb#Sup#Ill
 
@@ -59,11 +59,11 @@ Arg5: -
 ## ajama_3
 asja ajama
 
-Arg0: Nomin#Nom | Nomin#Par
+Arg0: SPN#Nom | SPN#Par
 
-Arg1: Nomin#Nom | Nomin#Gen | Nomin#Par
+Arg1: SPN#Nom | SPN#Gen | SPN#Par
 
-Arg2: Nomin#Add 
+Arg2: SPN#Add 
 
 Arg3: -
 

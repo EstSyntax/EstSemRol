@@ -4,11 +4,11 @@
 
 Arg0: -
 
-Arg1: Nomin#Nom
+Arg1: SPN#Nom
 
-Arg2: Nomin#Ela | Nomin#Gen#vahelt | Adv#sealt
+Arg2: SPN#Ela | SPN#Gen#vahelt | Adv#sealt
 
-Arg3: Nomin#Com
+Arg3: SPN#Com
 
 Arg4:
 

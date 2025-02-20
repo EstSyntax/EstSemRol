@@ -2,17 +2,17 @@
 
 ## alustama
 
-Arg0: Nomin#Nom (alustaja)
+Arg0: SPN#Nom (alustaja)
 
-Arg1: Nomin#Nom |  Nomin#Par | Verb#Fin (teema)
+Arg1: SPN#Nom |  SPN#Par | Verb#Fin (teema)
 
-Arg2: Nomin#Ela | Nomin#Abl (algseisund)
+Arg2: SPN#Ela | SPN#Abl (algseisund)
 
-Arg3: Nomin#Com
+Arg3: SPN#Com
 
 Arg4: -
 
-Arg5: Nomin#Ess
+Arg5: SPN#Ess
 
 ### Näited 
 

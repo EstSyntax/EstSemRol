@@ -2,9 +2,9 @@
 
 ## ähvardama
 
-Arg0: Nomin#Nom
+Arg0: SPN#Nom
 
-Arg1: Nomin#Par | Verb#Inf
+Arg1: SPN#Par | Verb#Inf
 
 Arg2:
 
