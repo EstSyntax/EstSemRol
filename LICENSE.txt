@@ -1,0 +1,6 @@
+This treebank is derived from the UD_Estonian-EDT treebank (https://github.com/UniversalDependencies/UD_Estonian-EDT) and it is distributed under the same license terms as EDT, which is
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Generic License
+
+To view a copy of this license, visit
+
+http://creativecommons.org/licenses/by-nc-sa/3.0/
