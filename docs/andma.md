@@ -1,4 +1,4 @@
-# ajama
+# andma
 
 ## andma_1
 ulatama, füüsiliselt andma (peaaegu)
