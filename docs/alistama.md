@@ -2,11 +2,11 @@
 
 ## alistama
 
-Arg0: SPN#Nom (alistaja)
+Arg0: nsubj#SPN#Nom (alistaja)
 
-Arg1: SPN#Nom | SPN#Gen | SPN#Par (kaotaja)
+Arg1: obj#SPN#Nom | obj#SPN#Gen | obj#SPN#Par (kaotaja)
 
-Arg2: SPN#Ade | SPN#Ine (võistlus)
+Arg2: obl#SPN#Ade | obl#SPN#Ine (võistlus)
 
 Arg3: 
 

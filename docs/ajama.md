@@ -3,11 +3,11 @@
 ## ajama_1
 kedagi/midagi seisundisse ajama
 
-Arg0: SPN#Nom (agent, põhjus)
+Arg0: nsubj#SPN#Nom (agent, põhjus)
 
-Arg1: SPN#Nom | SPN#Gen | SPN#Par (objekt)
+Arg1: obj#SPN#Nom | obj#SPN#Gen | obj#SPN#Par (objekt)
 
-Arg2: Verb#Sup#Ill| SPN#Tra | SPN#Add | SPN#Ill | Adv#(püsti | nurja | segamini | pärani) (seisund)
+Arg2: xcomp#Verb#Sup#Ill| xcomp#SPN#Tra | obl#SPN#Add | advmod#Adv#(püsti | nurja | segamini | pärani) (seisund)
 
 Arg3:
 
@@ -23,20 +23,21 @@ Arg5:
 * Aga soe suitsuräim ei aja praegu kellelgi suud vett jooksma.
 
 ### Märkused
-* 24 esinemist EDTs
+* 23 esinemist EDTs
 
 ### Ettepanekud
+kummi ajama on pigem vale morfoloogiline märgendus, peaks olema advmod
 
 ## ajama_2
 kedagi/midagi kuhugi ajama
 
-Arg0: SPN#Nom
+Arg0: nsubj#SPN#Nom
 
-Arg1: SPN#Nom | SPN#Gen | SPN#Par
+Arg1: obj#SPN#Nom | obj#SPN#Gen | obj#SPN#Par
 
-Arg2: SPN#Add | SPN#Ill | SPN#All | SPN#Gen + (kaela | läbi | vahele ) | Adv#(sinna)
+Arg2: obl#SPN#Add | obl#SPN#Ill | obl#SPN#All | obl#SPN#Gen + (kaela | läbi | vahele ) | advmod#Adv#(sinna)
 
-Arg3: Verb#Sup#Ill
+Arg3: xcomp#Verb#Sup#Ill
 
 Arg4: -
 
@@ -49,7 +50,7 @@ Arg5: -
 * /.../ ja karja tuli perioodiliselt ajada uutele rohumaadele.
 
 ### Märkused
-* 26 esinemist EDTs
+* 27 esinemist EDTs
 
 ### Ettepanekud
 * Arg2 võiks olla lähtekoht (ajas pliidilt põrandale panni)
@@ -59,11 +60,11 @@ Arg5: -
 ## ajama_3
 asja ajama
 
-Arg0: SPN#Nom | SPN#Par
+Arg0: nsubj#SPN#Nom | nsubj#SPN#Par
 
-Arg1: SPN#Nom | SPN#Gen | SPN#Par
+Arg1: obj#SPN#Nom | obj#SPN#Gen | obj#SPN#Par
 
-Arg2: SPN#Add 
+Arg2: obl#SPN#Add 
 
 Arg3: -
 

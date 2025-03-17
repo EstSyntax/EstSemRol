@@ -4,11 +4,11 @@
 
 Arg0: -
 
-Arg1: SPN#Nom
+Arg1: nsubj#SPN#Nom 
 
-Arg2: SPN#Ela | SPN#Gen#vahelt | Adv#sealt
+Arg2: obl#SPN#Ela | obl#SPN#Gen#vahelt | advmod#Adv#sealt
 
-Arg3: SPN#Com
+Arg3: obl#SPN#Com
 
 Arg4:
 

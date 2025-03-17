@@ -2,9 +2,9 @@
 
 ## algatama
 
-Arg0: SPN#Nom (algataja)
+Arg0: nsubj#SPN#Nom (algataja)
 
-Arg1: SPN#Nom | SPN#Gen | SPN#Par (teema)
+Arg1: obj#SPN#Nom | obj#SPN#Gen | obj#SPN#Par (teema)
 
 Arg2: 
 

@@ -2,9 +2,9 @@
 
 ## ähvardama
 
-Arg0: nsubj#SPN#Nom (ähvardaja)
+Arg0: SPN#Nom
 
-Arg1: obj#SPN#Par | ccomp#Verb#Inf
+Arg1: SPN#Par | Verb#Inf
 
 Arg2:
 
