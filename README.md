@@ -8,6 +8,9 @@ Märgendati 625 erineva verbi 36760 esinemist, nende 848 erinevat tähendust ja 
 
 Verbimärgendus on Misc-väljal kujul Verb=verbilemma või Verb=verbilemma_nr, kus number eristab verbi erinevaid tähendusi ja ka argumendistruktuuri konfiguratsioone.
 Argumendid on kujul Arg=verbilemma_Arg_nr, kus nr = 0 .. 5. Arg_0 on tüüpiliselt alus, Arg_1 on protsessiverbi alus või muu verbi sihitis. Argumendistruktuuri numeratsioonil ei ole kindlat nummerdamisreeglit, tihedamalt seotud argumendid on väiksema numeratsiooniga, kuid on ka muid seaduspärasusi, näiteks Arg_2 on liikumis- ja liigutamisverbide lähtekoht, Arg_3 on liikumis- ja liigutamisverbide sihtkoht.
+
+Ülevaade märgendatud ja märgendamata verbidest on leitav [doc/argumendid.tsv](doc/argumendid.tsv).
+
 ```
 # sent_id = aja_ee199920_2202
 # text = Tema dialektiline meetod ei jäta hüperboolideks ruumi.
